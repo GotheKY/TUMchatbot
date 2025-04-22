@@ -1,0 +1,22 @@
+Question,Follow_Up,Expected_Answer,Bot_Reply,Source
+Kann man das Modul tauschen?,Haben Sie eine Tauschpartner?,Ja,Bitte Mail mit Name des Tauschpartners an medizin.lehre@tum.de,Anforderungen_Chatbot.xlsx
+Kann man das Modul tauschen?,Haben Sie eine Tauschpartner?,Nein,Wir müssen nachsehen ob in diesem Modul noch Plätze frei sind.,Anforderungen_Chatbot.xlsx
+Kann man Fehltermine nachholen?,In welchem Modul sind Sie eingetragen?,1. Modul,Sie können bekannte Fehltermine im 1. Modul vorziehen.,Anforderungen_Chatbot.xlsx
+Kann man Fehltermine nachholen?,In welchem Modul sind Sie eingetragen?,2. Modul,Sie können die Fehltermine im 2. Modul nachholen.,Anforderungen_Chatbot.xlsx
+Sind die Wiederholungsstunden Pflicht?,,,Nein. Da sie in der Klausurwoche liegen.,Anforderungen_Chatbot.xlsx
+How many absence days are allowed?,,,You are allowed 2 days of absence. More than that and you are not allowed to take the final exam. One online certificate equals one day of presence.,Lernhilfe + Startseite
+Where is the practical course?,,,"The practical course is held in the course room of the Institute for Medical Microbiology, Immunology and Hygiene, Trogerstraße 30, 81675 Munich.",Moodle Startseite
+Where can I find lecture materials?,,,PDFs and recordings are available at https://www.moodle.tum.de/course/view.php?id=109918,Moodle
+Where can I find the course schedule?,,,You can find it on the homepage and it is kept up-to-date on mediTUM.,Kursablauf + Startseite
+What is relevant for the exam?,,,"Lectures, the practical course script (with solutions), Moodle lessons, and course introductions are all exam-relevant.",Lernhilfe
+What is the full course name?,,,"Medical Microbiology, Hygiene, Virology, and Immunology",Course Overview
+Which semester is this course offered?,,,Summer Semester 2025 (SoSe 2025),Course Overview
+Where is the Moodle course homepage?,,,https://www.moodle.tum.de/course/view.php?id=109916,Course Overview
+What is the email contact for this course?,,,medizin.lehre@tum.de,Course Overview
+Where does the practical course take place?,,,"At the Institute for Medical Microbiology, Immunology and Hygiene, Trogerstraße 30, 81675 München.",Praktikum
+What materials are available for the practical course?,,,"You will find Einführung, Auswertung, Skript, and Videos on the Moodle practical course page.",Praktikum
+What is covered in the final exam?,,,"Lectures, the practical course script with solutions, Moodle lessons, and course introductions.",Lernhilfe
+What is a good way to study for this course?,,,"Study by pathogen groups, review lectures, use Karteikarten, follow the course schedule, and use the test questions on Moodle.",Lernhilfe
+What is the maximum allowed absence?,,,Maximum 2 days. More than 2 means you cannot take the final exam. Online certificate = 1 attendance day. Absences can be made up or done in advance.,Attendance Policy
+When is the final exam?,,,"24 July 2025, 09:30 – 10:15, in HS A.",Kursablauf
+What if videos don’t play?,,,Try using a different browser such as Chrome or Firefox.,Startseite
